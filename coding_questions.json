@@ -1,0 +1,4 @@
+[
+    {"question": "Write a python program to print 'Hello'", "answer": "print('Hello')"},
+    {"question": "Find the output for a=5 b=3 print(a+b)", "answer": "8"}
+]
